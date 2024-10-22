@@ -1,0 +1,8 @@
+# Ignore the bin.bin file
+bin.bin
+
+# Ignore the lib directory
+lib/
+
+# Ignore the .vscode folder
+.vscode/
